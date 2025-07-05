@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "le_oeuf.dtsi"
+#include "nice60.dtsi"
 
 &xiao_spi {
     status = "okay";
